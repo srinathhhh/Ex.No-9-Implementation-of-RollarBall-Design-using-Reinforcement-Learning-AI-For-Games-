@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
 ### DATE: 02/09/2026                                                                          
-### REGISTER NUMBER : 2305002001
+### REGISTER NUMBER : 2305003009
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
